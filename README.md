@@ -4,7 +4,7 @@ Uses an HC-SR04 ultrasonic sensor along side an imported SR04 library to estimat
 The distance values have been set to mimic a car's parking sensor.
 
 Required Materials:
-  -Arduino Uno
+    -Arduino Uno
   -Breadboard
   -6 resitors 330ohm recommended
   -6 LEDS (3 different colors idealy)
